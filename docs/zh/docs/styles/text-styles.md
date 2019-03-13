@@ -26,7 +26,7 @@
 `text-decoration {string}`：字体装饰，可选值 `none` | `underline` | `line-through`，默认值为 `none`。
 
 ::: warning
-只支持 `<text>` 和 `<ricthext>`
+只支持 `<text>` 和 `<richtext>`
 :::
 
 ### text-algin
